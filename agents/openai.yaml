@@ -1,0 +1,6 @@
+interface:
+  display_name: "HFSS Design Optimizer"
+  short_description: "Design, reproduce, and learn HFSS workflows with bundled MATLAB API."
+  default_prompt: "Use $hfss-design-optimizer to generate or improve an HFSS model from my RF design requirements, paper, and simulation files."
+policy:
+  allow_implicit_invocation: true

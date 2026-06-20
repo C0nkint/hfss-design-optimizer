@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# HFSS / AEDT generated projects and solver outputs
+*.aedt
+*.aedtresults/
+*.asol
+*.vbs
+*.tab
+*.dat
+*.s*p
+
+# Generated analysis/export artifacts
+*.csv
+optimization_log.csv
+candidate_*/
+.hfss_skill_learning/
+*.log
+
+# Local machine configuration
+local-config.private.md
+*.local.md
